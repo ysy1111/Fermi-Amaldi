@@ -1,0 +1,18 @@
+start N2H2
+title 'N2H2'
+geometry units angstrom 
+  load N2H2.xyz
+end
+basis
+  * library 6-311+G(2d,p) 
+end 
+dft 
+  odft 
+  mult 1
+XC m06-L
+  decomp 
+  disp vdw 3
+  maxiter 199
+end 
+task dft energy 
+task dft freq numerical

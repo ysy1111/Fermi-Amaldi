@@ -1,0 +1,17 @@
+start CN+
+title 'CN+'
+charge 1.0
+geometry units angstrom 
+  load CN+.xyz
+end
+basis
+  * library 6-311+G(2d,p) 
+end 
+dft 
+XC M06-2X
+  decomp 
+  disp vdw 3
+  maxiter 199
+end 
+task dft energy 
+task dft freq numerical

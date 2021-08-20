@@ -1,0 +1,17 @@
+start O2
+title 'O2'
+geometry units angstrom 
+  load O2.xyz
+end
+basis
+  * library 6-311+G(2d,p) 
+end 
+dft 
+  odft 
+ mult 3
+  XC slater vwn_5 
+  decomp 
+  maxiter 199
+end 
+task dft energy 
+task dft freq numerical

@@ -1,0 +1,12 @@
+parameters:
+            - a0=1.026533
+            - a1=0.943178
+            - a2=-0.000126
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=5.762717 kcal/mol
+    - proton_affinity_error=1.510759 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=7.033751 kcal/mol
+    - ave_err=4.769076 kcal/mol
+    

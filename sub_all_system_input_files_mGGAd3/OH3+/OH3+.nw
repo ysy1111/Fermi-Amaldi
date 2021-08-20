@@ -1,0 +1,19 @@
+start OH3+
+title 'OH3+'
+charge 1.0
+geometry units angstrom 
+  load OH3+.xyz
+end
+basis
+  * library 6-311+G(2d,p) 
+end 
+dft 
+  odft 
+  mult 1
+XC m06-L
+  decomp 
+  disp vdw 3
+  maxiter 199
+end 
+task dft energy 
+task dft freq numerical

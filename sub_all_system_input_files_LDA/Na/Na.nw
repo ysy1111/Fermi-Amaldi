@@ -1,0 +1,16 @@
+start Na
+title 'Na'
+geometry units angstrom 
+  Na      0.00000000    0.00000000    0.00000000
+end
+basis
+  * library 6-311+G(2d,p) 
+end 
+dft 
+  odft 
+  mult 2
+  XC slater vwn_5 
+  decomp 
+  maxiter 199
+end 
+task dft energy 

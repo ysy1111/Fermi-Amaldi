@@ -1,0 +1,19 @@
+start NH2+
+title 'NH2+'
+charge 1.0
+geometry units angstrom 
+  load NH2+.xyz
+end
+basis
+  * library 6-311+G(2d,p) 
+end 
+dft 
+  odft 
+ mult 3
+XC M06-2X
+  decomp 
+  disp vdw 3
+  maxiter 199
+end 
+task dft energy 
+task dft freq numerical

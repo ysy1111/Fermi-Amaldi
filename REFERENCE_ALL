@@ -1,0 +1,105 @@
+a0 --> exchange
+a1 --> correlation
+a2 --> Fermi-Amaldi
+
+
+Pure_LDA
+    - atomization_energy_error=40.947070 kcal/mol
+    - proton_affinity_error=6.794307 kcal/mol
+    - ionization_energy_error=12.066806 kcal/mol
+    - average_error=19.936061
+
+	    Bayesian Opt after 55 iteration
+	    parameters:
+		    - a0=0.990140
+		    - a2=0.012907
+		    
+
+	    - atomization_energy_error=27.959535 kcal/mol
+	    - proton_affinity_error=6.294799 kcal/mol
+	    - ionization_energy_error=11.893237 kcal/mol
+	    - average_error=15.382524 kcal/mol
+	    
+	    linear-regression:
+	    parameter:
+	    	    - a0=0.9395924
+	    	    - a2=0.00861975
+	    - atomization_energy_error=21.34872582 kcal/mol
+	    - proton_affinity_error=9.35287912 kcal/mol
+	    - ionization_energy_error=11.00533507 kcal/mol
+	    - average_error=13.90231334
+	
+
+Pure_GGA: BLYP
+    - atomization_energy_error=6.12137827 kcal/mol
+    - proton_affinity_error=2.26810930 kcal/mol
+    - ionization_energy_error=7.11724052 kcal/mol
+    - average_error=5.16890936
+    
+   	    Bayesian Opt after 55 iteration
+	    parameters: 
+		    - a0=1.019628
+		    - a2=-0.000436
+		    
+	    - atomization_energy_error=6.924073 kcal/mol
+	    - proton_affinity_error=1.602907 kcal/mol
+	    - ionization_energy_error=5.886536 kcal/mol
+	    - average_error=4.804505 kcal/mol   
+	
+	    linear-regression:
+	    parameter:
+	    	    - a0=1.01743487
+	     	    - a2=0.00053554
+	    
+	    - atomization_energy_error=6.093902 kcal/mol
+	    - proton_affinity_error=1.630518 kcal/mol
+	    - ionization_energy_error=6.223574 kcal/mol
+	    - average_error=4.649331
+	    
+	    linear-regression:
+	    parameter:
+	    	    - a0=1.02604396
+	     	    - a1=0.94771026
+	    - atomization_energy_error=5.76602037 kcal/mol
+	    - proton_affinity_error=1.51026588 kcal/mol
+	    - ionization_energy_error=7.02984950 kcal/mol
+	    - weighted_average_error=4.76871192
+	    
+	    linear-regression:
+	    parameter:
+	    	    - a0 = 1.02653263
+	    	    - a1 = 0.94317806
+	    	    - a2 = -0.000125555222
+	    - atomization_energy_error=5.76271707 kcal/mol
+	    - proton_affinity_error=1.51075908 kcal/mol
+	    - ionization_energy_error=7.03375109 kcal/mol
+	    - weighted_average_error=4.76907574
+    
+GGA-D3: BLYP-D3:
+    - atomization_energy_error=5.96330920 kcal/mol
+    - proton_affinity_error=2.19050714 kcal/mol
+    - ionization_energy_error=7.12887922 kcal/mol
+    - average_error=5.09423186
+    
+mGGA-D3: M06-L-D3:
+    - atomization_energy_error=4.674732 kcal/mol
+    - proton_affinity_error=2.315817 kcal/mol
+    - ionization_energy_error=6.296189 kcal/mol
+    - average_error=4.42891258
+
+
+hybrid-GGA: B3LYP:
+    - atomization_energy_error=4.53943336 kcal/mol
+    - proton_affinity_error=1.65468809 kcal/mol
+    - ionization_energy_error=5.01139466 kcal/mol
+    - weighted_average_error=3.73517204
+
+hybrid-mGGA-D3: M06-2X-D3:
+    - atomization_energy_error=3.89481244 kcal/mol
+    - proton_affinity_error=2.59710311 kcal/mol
+    - ionization_energy_error=3.87067853 kcal/mol
+    - weighted_average_error=3.45419802
+ 
+ 
+ a0 a1 ex cor   GGA mGGA-D3
+                mix different GGAs together

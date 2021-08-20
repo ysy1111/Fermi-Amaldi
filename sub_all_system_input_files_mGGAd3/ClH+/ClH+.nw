@@ -1,0 +1,19 @@
+start ClH+
+title 'ClH+'
+charge 1.0
+geometry units angstrom 
+  load ClH+.xyz
+end
+basis
+  * library 6-311+G(2d,p) 
+end 
+dft 
+  odft 
+  mult 2
+XC m06-L
+  decomp 
+  disp vdw 3
+  maxiter 199
+end 
+task dft energy 
+task dft freq numerical

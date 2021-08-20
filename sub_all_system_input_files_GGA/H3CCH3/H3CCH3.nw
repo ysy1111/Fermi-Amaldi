@@ -1,0 +1,17 @@
+start H3CCH3
+title 'H3CCH3'
+geometry units angstrom 
+  load H3CCH3.xyz
+end
+basis
+  * library 6-311+G(2d,p) 
+end 
+dft 
+  odft 
+  mult 1
+XC becke88 lyp
+  decomp 
+  maxiter 199
+end 
+task dft energy 
+task dft freq numerical

@@ -1,0 +1,18 @@
+start NH4+
+title 'NH4+'
+charge 1.0
+geometry units angstrom 
+  load NH4+.xyz
+end
+basis
+  * library 6-311+G(2d,p) 
+end 
+dft 
+  odft 
+  mult 1
+  XC slater vwn_5 
+  decomp 
+  maxiter 199
+end 
+task dft energy 
+task dft freq numerical

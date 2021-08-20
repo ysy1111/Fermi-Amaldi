@@ -1,0 +1,551 @@
+parameters:
+            - a0=1.000000
+            - a2=0.000000
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=40.947069 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=40.947069 kcal/mol
+    parameters:
+            - a0=0.851670
+            - a2=-0.170249
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=466.114513 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=466.114513 kcal/mol
+    parameters:
+            - a0=1.043975
+            - a2=-0.191426
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=556.048784 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=556.048784 kcal/mol
+    parameters:
+            - a0=0.860880
+            - a2=0.181882
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=482.272818 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=482.272818 kcal/mol
+    parameters:
+            - a0=1.121873
+            - a2=-0.102308
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=327.527737 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=327.527737 kcal/mol
+    parameters:
+            - a0=0.930079
+            - a2=-0.024278
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=90.511044 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=90.511044 kcal/mol
+    parameters:
+            - a0=0.853915
+            - a2=0.037889
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=89.949853 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=89.949853 kcal/mol
+    parameters:
+            - a0=1.191286
+            - a2=-0.164555
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=517.135695 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=517.135695 kcal/mol
+    parameters:
+            - a0=0.917576
+            - a2=-0.104382
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=302.666731 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=302.666731 kcal/mol
+    parameters:
+            - a0=1.006645
+            - a2=-0.181612
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=523.447053 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=523.447053 kcal/mol
+    parameters:
+            - a0=0.905863
+            - a2=0.068547
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=168.051258 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=168.051258 kcal/mol
+    parameters:
+            - a0=1.115708
+            - a2=-0.054232
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=196.159253 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=196.159253 kcal/mol
+    parameters:
+            - a0=0.845372
+            - a2=-0.133283
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=370.839664 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=370.839664 kcal/mol
+    parameters:
+            - a0=0.807300
+            - a2=0.115428
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=304.118706 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=304.118706 kcal/mol
+    parameters:
+            - a0=0.910857
+            - a2=0.146029
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=380.236709 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=380.236709 kcal/mol
+    parameters:
+            - a0=1.011488
+            - a2=0.077169
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=183.966645 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=183.966645 kcal/mol
+    parameters:
+            - a0=1.200000
+            - a2=0.011793
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=51.308138 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=51.308138 kcal/mol
+    parameters:
+            - a0=0.983221
+            - a2=0.003234
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=32.454230 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=32.454230 kcal/mol
+    parameters:
+            - a0=0.827923
+            - a2=0.005323
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.791065 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.791065 kcal/mol
+    parameters:
+            - a0=0.800000
+            - a2=0.006174
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=15.256040 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=15.256040 kcal/mol
+    parameters:
+            - a0=0.800000
+            - a2=0.005737
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=14.526855 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=14.526855 kcal/mol
+    parameters:
+            - a0=0.800000
+            - a2=0.005839
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=14.692734 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=14.692734 kcal/mol
+    parameters:
+            - a0=0.800000
+            - a2=0.005963
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=14.896248 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=14.896248 kcal/mol
+    parameters:
+            - a0=0.800000
+            - a2=0.006593
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=16.003637 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=16.003637 kcal/mol
+    parameters:
+            - a0=0.828878
+            - a2=0.003281
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.228172 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.228172 kcal/mol
+    parameters:
+            - a0=0.824864
+            - a2=0.002314
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.514664 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.514664 kcal/mol
+    parameters:
+            - a0=0.824669
+            - a2=0.002294
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.517361 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.517361 kcal/mol
+    parameters:
+            - a0=0.833570
+            - a2=0.003135
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.574617 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.574617 kcal/mol
+    parameters:
+            - a0=0.816924
+            - a2=0.001706
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.512150 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.512150 kcal/mol
+    parameters:
+            - a0=0.816774
+            - a2=0.001695
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.512482 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.512482 kcal/mol
+    parameters:
+            - a0=0.832694
+            - a2=0.003036
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.568600 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.568600 kcal/mol
+    parameters:
+            - a0=0.813630
+            - a2=0.001480
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.522681 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.522681 kcal/mol
+    parameters:
+            - a0=0.831392
+            - a2=0.002900
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.557884 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.557884 kcal/mol
+    parameters:
+            - a0=0.811824
+            - a2=0.001361
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.530218 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.530218 kcal/mol
+    parameters:
+            - a0=0.830067
+            - a2=0.002765
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.550458 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.550458 kcal/mol
+    parameters:
+            - a0=0.810105
+            - a2=0.001247
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.542949 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.542949 kcal/mol
+    parameters:
+            - a0=0.828808
+            - a2=0.002641
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.545680 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.545680 kcal/mol
+    parameters:
+            - a0=0.808125
+            - a2=0.001114
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.565251 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.565251 kcal/mol
+    parameters:
+            - a0=0.827500
+            - a2=0.002532
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.532245 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.532245 kcal/mol
+    parameters:
+            - a0=0.805479
+            - a2=0.000932
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.610676 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.610676 kcal/mol
+    parameters:
+            - a0=0.826159
+            - a2=0.002398
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.538351 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.538351 kcal/mol
+    parameters:
+            - a0=0.826181
+            - a2=0.002401
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.537862 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.537862 kcal/mol
+    parameters:
+            - a0=0.800000
+            - a2=0.000524
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.776700 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.776700 kcal/mol
+    parameters:
+            - a0=0.824032
+            - a2=0.002222
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.530571 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.530571 kcal/mol
+    parameters:
+            - a0=0.824159
+            - a2=0.002227
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.535221 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.535221 kcal/mol
+    parameters:
+            - a0=0.824515
+            - a2=0.002257
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.535862 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.535862 kcal/mol
+    parameters:
+            - a0=0.800000
+            - a2=0.000506
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.797209 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.797209 kcal/mol
+    parameters:
+            - a0=0.823936
+            - a2=0.002220
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.526209 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.526209 kcal/mol
+    parameters:
+            - a0=0.823957
+            - a2=0.002221
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.526634 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.526634 kcal/mol
+    parameters:
+            - a0=0.834006
+            - a2=0.003244
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.550334 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.550334 kcal/mol
+    parameters:
+            - a0=0.819100
+            - a2=0.001902
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.474285 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.474285 kcal/mol
+    parameters:
+            - a0=0.819192
+            - a2=0.001915
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.469509 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.469509 kcal/mol
+    parameters:
+            - a0=0.836763
+            - a2=0.003570
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.596839 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.596839 kcal/mol
+    parameters:
+            - a0=0.819048
+            - a2=0.001881
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.489028 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.489028 kcal/mol
+    parameters:
+            - a0=0.819527
+            - a2=0.001926
+            
+    - total_energy_error=0.000000 kcal/mol
+    - atomization_energy_error=12.480604 kcal/mol
+    - proton_affinity_error=0.000000 kcal/mol
+    - electron_affinity_error=0.000000 kcal/mol
+    - ionization_energy_error=0.000000 kcal/mol
+    - ave_err=12.480604 kcal/mol
+    

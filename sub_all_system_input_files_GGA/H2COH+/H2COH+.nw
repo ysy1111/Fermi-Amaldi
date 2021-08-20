@@ -1,0 +1,18 @@
+start H2COH+
+title 'H2COH+'
+charge 1.0
+geometry units angstrom 
+  load H2COH+.xyz
+end
+basis
+  * library 6-311+G(2d,p) 
+end 
+dft 
+  odft 
+  mult 1
+XC becke88 lyp
+  decomp 
+  maxiter 199
+end 
+task dft energy 
+task dft freq numerical

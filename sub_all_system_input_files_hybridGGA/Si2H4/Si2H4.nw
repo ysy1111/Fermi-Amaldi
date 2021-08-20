@@ -1,0 +1,15 @@
+start Si2H4
+title 'Si2H4'
+geometry units angstrom 
+  load Si2H4.xyz
+end
+basis
+  * library 6-311+G(2d,p) 
+end 
+dft 
+XC B3LYP
+  decomp 
+  maxiter 199
+end 
+task dft energy 
+task dft freq numerical

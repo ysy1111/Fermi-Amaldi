@@ -1,0 +1,18 @@
+start CH
+title 'CH'
+geometry units angstrom 
+  load CH.xyz
+end
+basis
+  * library 6-311+G(2d,p) 
+end 
+dft 
+  odft 
+  mult 2
+XC M06-2X
+  decomp 
+  disp vdw 3
+  maxiter 199
+end 
+task dft energy 
+task dft freq numerical

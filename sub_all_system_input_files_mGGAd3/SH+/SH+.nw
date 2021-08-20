@@ -1,0 +1,19 @@
+start SH+
+title 'SH+'
+charge 1.0
+geometry units angstrom 
+  load SH+.xyz
+end
+basis
+  * library 6-311+G(2d,p) 
+end 
+dft 
+  odft 
+ mult 3
+XC m06-L
+  decomp 
+  disp vdw 3
+  maxiter 199
+end 
+task dft energy 
+task dft freq numerical

@@ -1,0 +1,17 @@
+start C2H3+
+title 'C2H3+'
+charge 1.0
+geometry units angstrom 
+  load C2H3+.xyz
+end
+basis
+  * library 6-311+G(2d,p) 
+end 
+dft 
+XC M06-2X
+  decomp 
+  disp vdw 3
+  maxiter 199
+end 
+task dft energy 
+task dft freq numerical

@@ -1,0 +1,16 @@
+start BCl3
+title 'BCl3'
+geometry units angstrom 
+  load BCl3.xyz
+end
+basis
+  * library 6-311+G(2d,p) 
+end 
+dft 
+XC M06-2X
+  decomp 
+  disp vdw 3
+  maxiter 199
+end 
+task dft energy 
+task dft freq numerical

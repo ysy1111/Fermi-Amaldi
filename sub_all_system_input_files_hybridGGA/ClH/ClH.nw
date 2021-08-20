@@ -1,0 +1,15 @@
+start ClH
+title 'ClH'
+geometry units angstrom 
+  load ClH.xyz
+end
+basis
+  * library 6-311+G(2d,p) 
+end 
+dft 
+XC B3LYP
+  decomp 
+  maxiter 199
+end 
+task dft energy 
+task dft freq numerical

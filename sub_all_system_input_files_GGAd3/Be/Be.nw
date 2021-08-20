@@ -1,0 +1,17 @@
+start Be
+title 'Be'
+geometry units angstrom 
+  Be      0.00000000    0.00000000    0.00000000
+end
+basis
+  * library 6-311+G(2d,p) 
+end 
+dft 
+  odft 
+  mult 1
+XC becke88 lyp
+  decomp 
+  disp vdw 3
+  maxiter 199
+end 
+task dft energy 

@@ -1,0 +1,17 @@
+start HOOH
+title 'HOOH'
+geometry units angstrom 
+  load HOOH.xyz
+end
+basis
+  * library 6-311+G(2d,p) 
+end 
+dft 
+  odft 
+  mult 1
+  XC slater vwn_5 
+  decomp 
+  maxiter 199
+end 
+task dft energy 
+task dft freq numerical

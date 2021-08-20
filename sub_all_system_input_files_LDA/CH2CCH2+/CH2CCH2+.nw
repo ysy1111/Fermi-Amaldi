@@ -1,0 +1,18 @@
+start CH2CCH2+
+title 'CH2CCH2+'
+charge 1.0
+geometry units angstrom 
+  load CH2CCH2+.xyz
+end
+basis
+  * library 6-311+G(2d,p) 
+end 
+dft 
+  odft 
+  mult 2
+  XC slater vwn_5 
+  decomp 
+  maxiter 199
+end 
+task dft energy 
+task dft freq numerical

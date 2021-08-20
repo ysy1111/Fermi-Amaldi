@@ -1,0 +1,18 @@
+start P+
+title 'P+'
+charge 1.0
+geometry units angstrom 
+  P      0.00000000    0.00000000    0.00000000
+end
+basis
+  * library 6-311+G(2d,p) 
+end 
+dft 
+  odft 
+  mult 3
+XC becke88 lyp
+  decomp 
+  disp vdw 3
+  maxiter 199
+end 
+task dft energy 

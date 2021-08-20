@@ -1,0 +1,18 @@
+start CH2SH
+title 'CH2SH'
+geometry units angstrom 
+  load CH2SH.xyz
+end
+basis
+  * library 6-311+G(2d,p) 
+end 
+dft 
+  odft 
+  mult 2
+XC becke88 lyp
+  decomp 
+  disp vdw 3
+  maxiter 199
+end 
+task dft energy 
+task dft freq numerical

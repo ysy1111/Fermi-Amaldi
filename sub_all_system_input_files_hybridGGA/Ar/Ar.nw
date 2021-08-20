@@ -1,0 +1,14 @@
+start Ar
+title 'Ar'
+geometry units angstrom 
+  Ar      0.00000000    0.00000000    0.00000000
+end
+basis
+  * library 6-311+G(2d,p) 
+end 
+dft 
+XC B3LYP
+  decomp 
+  maxiter 199
+end 
+task dft energy 

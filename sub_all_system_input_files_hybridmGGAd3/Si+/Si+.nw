@@ -1,0 +1,18 @@
+start Si+
+title 'Si+'
+charge 1.0
+geometry units angstrom 
+  Si      0.00000000    0.00000000    0.00000000
+end
+basis
+  * library 6-311+G(2d,p) 
+end 
+dft 
+  odft 
+  mult 2
+XC M06-2X
+  decomp 
+  disp vdw 3
+  maxiter 199
+end 
+task dft energy 

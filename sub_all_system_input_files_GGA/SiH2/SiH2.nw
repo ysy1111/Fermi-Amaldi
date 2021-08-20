@@ -1,0 +1,17 @@
+start SiH2
+title 'SiH2'
+geometry units angstrom 
+  load SiH2.xyz
+end
+basis
+  * library 6-311+G(2d,p) 
+end 
+dft 
+  odft 
+  mult 1
+XC becke88 lyp
+  decomp 
+  maxiter 199
+end 
+task dft energy 
+task dft freq numerical

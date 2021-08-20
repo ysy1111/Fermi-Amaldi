@@ -1,0 +1,16 @@
+start Si2H5+
+title 'Si2H5+'
+charge 1.0
+geometry units angstrom 
+  load Si2H5+.xyz
+end
+basis
+  * library 6-311+G(2d,p) 
+end 
+dft 
+XC B3LYP
+  decomp 
+  maxiter 199
+end 
+task dft energy 
+task dft freq numerical

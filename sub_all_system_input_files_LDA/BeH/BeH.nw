@@ -1,0 +1,17 @@
+start BeH
+title 'BeH'
+geometry units angstrom 
+  load BeH.xyz
+end
+basis
+  * library 6-311+G(2d,p) 
+end 
+dft 
+  odft 
+  mult 2
+  XC slater vwn_5 
+  decomp 
+  maxiter 199
+end 
+task dft energy 
+task dft freq numerical
